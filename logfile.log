@@ -1,0 +1,13 @@
+16:03:47 - dispatcher - INFO - start_polling: 566 - Start polling
+16:03:47 - dispatcher - INFO - _polling: 363 - Run polling for bot @goba_docker_bot id=7801747532 - 'goba_bot'
+16:04:08 - bot - INFO - proccess_command_start: 26 - Dmitry 548682933 launch bot
+16:04:08 - dispatcher - INFO - feed_update: 172 - Update id=870153536 is handled. Duration 254 ms by bot id=7801747532
+16:04:14 - bot - INFO - send_echo: 35 - Dmitry 548682933: What`s up
+16:04:14 - dispatcher - INFO - feed_update: 172 - Update id=870153537 is handled. Duration 81 ms by bot id=7801747532
+16:11:43 - dispatcher - WARNING - _signal_stop_polling: 491 - Received SIGINT signal
+16:11:43 - dispatcher - INFO - _polling: 395 - Polling stopped for bot @goba_docker_bot id=7801747532 - 'goba_bot'
+16:11:43 - dispatcher - INFO - start_polling: 594 - Polling stopped
+16:14:58 - dispatcher - INFO - start_polling: 566 - Start polling
+16:14:59 - dispatcher - INFO - _polling: 363 - Run polling for bot @goba_docker_bot id=7801747532 - 'goba_bot'
+16:15:05 - bot - INFO - proccess_command_start: 26 - Dmitry 548682933 launch bot
+16:15:06 - dispatcher - INFO - feed_update: 172 - Update id=870153538 is handled. Duration 338 ms by bot id=7801747532
