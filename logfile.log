@@ -1,13 +1,20 @@
-16:03:47 - dispatcher - INFO - start_polling: 566 - Start polling
-16:03:47 - dispatcher - INFO - _polling: 363 - Run polling for bot @goba_docker_bot id=7801747532 - 'goba_bot'
-16:04:08 - bot - INFO - proccess_command_start: 26 - Dmitry 548682933 launch bot
-16:04:08 - dispatcher - INFO - feed_update: 172 - Update id=870153536 is handled. Duration 254 ms by bot id=7801747532
-16:04:14 - bot - INFO - send_echo: 35 - Dmitry 548682933: What`s up
-16:04:14 - dispatcher - INFO - feed_update: 172 - Update id=870153537 is handled. Duration 81 ms by bot id=7801747532
-16:11:43 - dispatcher - WARNING - _signal_stop_polling: 491 - Received SIGINT signal
-16:11:43 - dispatcher - INFO - _polling: 395 - Polling stopped for bot @goba_docker_bot id=7801747532 - 'goba_bot'
-16:11:43 - dispatcher - INFO - start_polling: 594 - Polling stopped
-16:14:58 - dispatcher - INFO - start_polling: 566 - Start polling
-16:14:59 - dispatcher - INFO - _polling: 363 - Run polling for bot @goba_docker_bot id=7801747532 - 'goba_bot'
-16:15:05 - bot - INFO - proccess_command_start: 26 - Dmitry 548682933 launch bot
-16:15:06 - dispatcher - INFO - feed_update: 172 - Update id=870153538 is handled. Duration 338 ms by bot id=7801747532
+23:08:48 - dispatcher - INFO - start_polling: 566 - Start polling
+23:08:48 - dispatcher - INFO - _polling: 363 - Run polling for bot @goba_docker_bot id=7801747532 - 'goba_bot'
+23:08:53 - bot - INFO - proccess_command_start: 26 - Dmitry 548682933 launch bot
+23:08:53 - dispatcher - INFO - feed_update: 172 - Update id=870153622 is handled. Duration 182 ms by bot id=7801747532
+23:08:59 - bot - INFO - send_echo: 55 - Dmitry 548682933: Your name in transliteration: Vova Pupkin
+23:08:59 - dispatcher - INFO - feed_update: 172 - Update id=870153623 is handled. Duration 83 ms by bot id=7801747532
+23:09:08 - bot - INFO - send_echo: 55 - Dmitry 548682933: Your name in transliteration: Pampukha Dmitrii
+23:09:08 - dispatcher - INFO - feed_update: 172 - Update id=870153624 is handled. Duration 82 ms by bot id=7801747532
+23:10:17 - dispatcher - WARNING - _signal_stop_polling: 491 - Received SIGINT signal
+23:10:17 - dispatcher - INFO - _polling: 395 - Polling stopped for bot @goba_docker_bot id=7801747532 - 'goba_bot'
+23:10:17 - dispatcher - INFO - start_polling: 594 - Polling stopped
+23:31:37 - dispatcher - INFO - start_polling: 566 - Start polling
+23:31:37 - dispatcher - INFO - _polling: 363 - Run polling for bot @goba_docker_bot id=7801747532 - 'goba_bot'
+23:31:42 - bot - INFO - proccess_command_start: 26 - Dmitry 548682933 launch bot
+23:31:43 - dispatcher - INFO - feed_update: 172 - Update id=870153627 is handled. Duration 245 ms by bot id=7801747532
+23:31:49 - bot - INFO - send_echo: 57 - Dmitry 548682933: Your name in transliteration: Pampukha Dmitrii
+23:31:49 - dispatcher - INFO - feed_update: 172 - Update id=870153628 is handled. Duration 157 ms by bot id=7801747532
+23:31:52 - dispatcher - WARNING - _signal_stop_polling: 491 - Received SIGINT signal
+23:31:52 - dispatcher - INFO - _polling: 395 - Polling stopped for bot @goba_docker_bot id=7801747532 - 'goba_bot'
+23:31:52 - dispatcher - INFO - start_polling: 594 - Polling stopped
