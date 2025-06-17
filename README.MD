@@ -7,9 +7,13 @@
 4. команды терминала для монтирования образа и запуска контейнера:
     - docker build .    - создание нового образа
     - docker images     - перечень всех образов в docker
-    - docker run -d -p 80:80 IMAGE ID   - запуск контейнера, использовать номер созданного ранее образа (IMAGE ID)
+    - docker run -d -e TOKEN=MY_TOKEN IMAGE ID   - запуск контейнера, токен телеграмм бота создается в файле .env как константа MY_TOKEN
     - docker ps     - перечень запущенных контейнеров
-    - docker logs CONTAINER ID  - лог файл запущенного контейнера (указывать номер CONTAINER ID)
+    - docker logs CONTAINER ID  - лог файл запущенного контейнера
     - docker stop CONTAINER ID -    остановка контейнера по номеру
     - docker rm CONTAINER ID    - удаление контейнера по номеру
     - docker rmi IMAGE ID   - удаление образа по номеру
+    
+    * полезные команды docker:
+    - docker stop $(docker ps -a -q)    - остановить все контейнеры
+    - docker rm $(docker ps -a -q)  - удалить все контейнеры

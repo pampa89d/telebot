@@ -18,3 +18,12 @@
 23:31:52 - dispatcher - WARNING - _signal_stop_polling: 491 - Received SIGINT signal
 23:31:52 - dispatcher - INFO - _polling: 395 - Polling stopped for bot @goba_docker_bot id=7801747532 - 'goba_bot'
 23:31:52 - dispatcher - INFO - start_polling: 594 - Polling stopped
+11:22:08 - dispatcher - INFO - start_polling: 566 - Start polling
+11:22:08 - dispatcher - INFO - _polling: 363 - Run polling for bot @goba_docker_bot id=7801747532 - 'goba_bot'
+11:22:27 - bot - INFO - proccess_command_start: 29 - Dmitry 548682933 launch bot
+11:22:27 - dispatcher - INFO - feed_update: 172 - Update id=870153631 is handled. Duration 197 ms by bot id=7801747532
+11:22:36 - bot - INFO - send_echo: 60 - Dmitry 548682933: Your name in transliteration: Vova Pupkin
+11:22:36 - dispatcher - INFO - feed_update: 172 - Update id=870153632 is handled. Duration 145 ms by bot id=7801747532
+11:24:19 - dispatcher - WARNING - _signal_stop_polling: 491 - Received SIGINT signal
+11:24:19 - dispatcher - INFO - _polling: 395 - Polling stopped for bot @goba_docker_bot id=7801747532 - 'goba_bot'
+11:24:19 - dispatcher - INFO - start_polling: 594 - Polling stopped
