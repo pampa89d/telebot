@@ -11,6 +11,7 @@
     - docker ps     - перечень запущенных контейнеров
     - docker logs CONTAINER ID  - лог файл запущенного контейнера
     - docker stop CONTAINER ID -    остановка контейнера по номеру
+    - docker start CONTAINER ID - запуск контейнера по номеру
     - docker rm CONTAINER ID    - удаление контейнера по номеру
     - docker rmi IMAGE ID   - удаление образа по номеру
     
